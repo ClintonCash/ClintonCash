@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=ClintonCash
+Comment=ClintonCash P2P Cryptocurrency
+Comment[fr]=ClintonCash, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=ClintonCash, eşten eşe kriptografik sanal para birimi
+Exec=clintoncash-qt %u
+Terminal=false
+Type=Application
+Icon=clintoncash128
+MimeType=x-scheme-handler/clintoncash;
+Categories=Office;Finance;
