@@ -3,13 +3,13 @@ ClintonCash version 1.0.0
 
 Release is now available from:
 
-  <https://www.clintoncash.net>
+  <https://www.clintoncash.org/downloads/#wallets>
 
 This is a new major version release, bringing new features and other improvements.
 
 Please report bugs using the issue tracker at github:
 
-  <https://github.com/clintoncash>
+  <https://github.com/clintoncashpay/clintoncash/issues>
 
 Upgrading and downgrading
 =========================

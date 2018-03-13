@@ -21,7 +21,7 @@ To Build
 ./autogen.sh
 ./configure
 make
-M
+make install # optional
 ```
 
 This will build clintoncash-qt as well if the dependencies are met.
