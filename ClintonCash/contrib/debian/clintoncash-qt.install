@@ -1,6 +1,0 @@
-usr/local/bin/clintoncash-qt usr/bin
-share/pixmaps/clintoncash32.xpm usr/share/pixmaps
-share/pixmaps/clintoncash16.xpm usr/share/pixmaps
-share/pixmaps/clintoncash128.png usr/share/pixmaps
-debian/clintoncash-qt.desktop usr/share/applications
-debian/clintoncash-qt.protocol usr/share/kde4/services/
